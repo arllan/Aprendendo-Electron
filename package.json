@@ -1,0 +1,17 @@
+{
+  "name": "curso-electron",
+  "version": "1.0.0",
+  "description": "testar aulas: aula-01/index.js",
+  "main": "aula-03/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start":"electron ."
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "electron": "^1.6.1"
+  }
+}
+
+
